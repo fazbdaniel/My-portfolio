@@ -1,0 +1,10 @@
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 20%; /* Adjust the width as per your requirements */
+    background-color: #f1f1f1; /* Adjust the background color as per your design */
+    overflow-y: auto; /* Enable scrolling if the content exceeds the height */
+  }
+  
