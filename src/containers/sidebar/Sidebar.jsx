@@ -7,10 +7,10 @@ export default function Sidebar() {
     <div className='sidebar'>
       <Header/>
       <ul>
-        <a href='#home'><li>Home</li></a>
-        <a href='#about'><li>About Me</li></a>
-        <a href='#skills'><li>Skills</li></a>
-        <a href='#contact'><li>Comtact Me</li></a>
+        <li><a href='#home'>Home</a></li>
+        <li><a href='#about'>About Me</a></li>
+        <li><a href='#skills'>Skills</a></li>
+        <li><a href='#contact'>Comtact Me</a></li>
       </ul>
     </div>
   )

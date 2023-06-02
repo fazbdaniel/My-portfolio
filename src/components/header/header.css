@@ -1,4 +1,10 @@
 .image img {
     height: 10em;
     width: 10em;
+    border-radius: 50%;
+}
+
+.image {
+    margin-top: 40px;
+    text-align: center;
 }

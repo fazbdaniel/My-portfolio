@@ -1,0 +1,56 @@
+#home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .home_image {
+    flex: 1;
+    text-align: center;
+  }
+
+  .home_image img{
+    width: 80%;
+    height: 30%;
+    text-align: center;
+    border-radius: 50%;
+  }
+  
+  .home_text {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .home_text h6 {
+    font-size: 16px;
+    color: #fff;
+  }
+  
+  .home_text h1 {
+    font-size: 32px;
+    color: #fff;
+    margin-top: 10px;
+  }
+  
+  .home_text span {
+    font-size: 18px;
+    color: #fff9;
+  }
+  
+  .home_text p {
+    font-size: 16px;
+    color: #fff;
+    margin-top: 20px;
+  }
+  
+  .home_text button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  

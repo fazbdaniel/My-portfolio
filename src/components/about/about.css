@@ -1,0 +1,67 @@
+#about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.about_image {
+  flex: 1;
+  text-align: center;
+}
+
+.about_image img {
+  width: 80%;
+  height: 80%;
+  text-align: center;
+}
+
+.about_text {
+  flex: 1;
+  padding: 20px;
+}
+
+.about_text h4 {
+  font-weight: lighter;
+  font-size: 32px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.about_text #bar {
+  background: rgb(28, 75, 20);
+  height: 1px;
+  width: 150px;
+}
+
+.about_text h3 {
+  font-weight: normal;
+  font-size: 32px;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.about_text p {
+  font-size: 16px;
+  color: #fff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+button a {
+    color: #fff;
+}
+
+.about_skills {
+    margin-left: 60px;
+}
