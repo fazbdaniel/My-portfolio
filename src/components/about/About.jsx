@@ -1,34 +1,20 @@
 import React from "react";
 import "./about.css";
-import dani_1 from "../../assets/dani_1.jpg";
 
 export default function About() {
   return (
     <div id="about">
-      <div className="about_image">
-        <img src={dani_1} alt="dani" />
-      </div>
-
-      <div className="about_text">
-        <h4>ABOUT ME.</h4>
-        <div id="bar"/>
-        <h3>
-          I'm a Freelancer Front-end Developer with over 3 years of experience.
-        </h3>
-        <p>
-          I'm a Freelancer Front-end Developer with over 3 years of experience.
-          I'm from San Francisco. I code and create web elements for amazing
-          people around the world. I like work with new people. New people new
-          Experiences.
+      <div className="about-border">
+        <h2 className="about-title">About Me</h2>
+        <p className="about-text">
+          I am a web developer with 3 years of experience in both front-end and
+          back-end web development. Additionally, I have 5 years of experience
+          in marketing and digital marketing. With a strong foundation in HTML,
+          CSS, and JavaScript, I create user-friendly websites while
+          implementing effective digital marketing strategies to drive brand
+          awareness and customer engagement. Let's collaborate to bring your
+          projects to life
         </p>
-        <div className="about_buttons">
-          <button className="about_contact">
-            <a href="#contact">Contact me</a>
-          </button>
-          <button className="about_skills">
-            <a href="#skills">Skills</a>
-          </button>
-        </div>
       </div>
     </div>
   );

@@ -1,0 +1,22 @@
+#skills {
+    color:black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+}
+
+.skills-title {
+    text-align: center;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.skills-test{
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 400;
+}

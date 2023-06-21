@@ -3,9 +3,11 @@
     left: 0;
     top: 0;
     height: 100%;
-    width: 20%; /* Adjust the width as per your requirements */
+    width: 7%; /* Adjust the width as per your requirements */
     background-color: #0C0C14; /* Adjust the background color as per your design */
     overflow-y: auto; /* Enable scrolling if the content exceeds the height */
+    display: flex;
+    align-items:center;
   }
 
   li {
@@ -17,13 +19,9 @@
 
   li a{
     color: #fff;
-    font-size: 16px;
+    font-size: 32px;
     font-weight: normal;
-    margin-left: 30px;
   }
 
-  ul {
-    list-style: none;
-    padding-top: 70px;
-  }
+
   

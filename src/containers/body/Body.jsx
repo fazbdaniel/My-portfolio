@@ -6,8 +6,9 @@ export default function Body() {
   return (
     <div className='body'>
       <Home/>
-      <About/>
       <Skills/>
+      <About/>
+      
     </div>
   )
 }
