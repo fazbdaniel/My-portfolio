@@ -3,18 +3,33 @@ import "./skills.css"
 
 export default function Skills() {
   return (
-    <div id='skills'>
-      <div className='row'>
-        <div className='col-lg-5'>
-          <h2 className='skills-title'>Communication skills</h2>
-          <p className='skills-test'>As a skilled digital account manager, you possess a comprehensive understanding of the digital landscape and its ever-evolving trends. Your proficiency lies in developing and executing innovative digital marketing strategies tailored to meet client objectives. Your expertise in managing various digital platforms, including social media, email marketing, and search engine optimization, enables you to optimize brand visibility and drive targeted traffic. You excel in fostering strong client relationships by delivering exceptional customer service and demonstrating a deep understanding of their specific needs.</p>
-        </div>
-        <div className='col-lg-5 offset-2'>
-          <h2 className='skills-title'>Web Development</h2>
-          <p className='skills-test'>As a skilled digital account manager, you possess a comprehensive understanding of the digital landscape and its ever-evolving trends. Your proficiency lies in developing and executing innovative digital marketing strategies tailored to meet client objectives. Your expertise in managing various digital platforms, including social media, email marketing, and search engine optimization, enables you to optimize brand visibility and drive targeted traffic. You excel in fostering strong client relationships by delivering exceptional customer service and demonstrating a deep understanding of their specific needs.</p>
+    <section id="skills" className="section d-flex align-items-center">
+      <div className="container">
+        <h2 className="section-title text-center">Skills</h2>
+        <div className="row">
+          <div className="col-md-6">
+            <h3>Marketing Skills</h3>
+            <ul className='sills-ul'>
+              <li>Marketing Consulting</li>
+              <li>Digital Management</li>
+              <li>Media Buying and Relations</li>
+              <li>Copywriting</li>
+              <li>Advertising</li>
+            </ul>
+          </div>
+          <div className="col-md-6">
+            <h3>Web Development Skills</h3>
+            <ul className='sills-ul'>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+              <li>Back-end Development (Node.js)</li>
+              <li>Front-end Development (React.js)</li>
+            </ul>
+          </div>
         </div>
       </div>
-    </div>
+    </section>
   )
 }
 

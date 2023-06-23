@@ -1,5 +1,6 @@
 .home-section {
   height: 100vh;
+  scroll-snap-align: center;
 }
 .profile-picture {
   margin-left: 17em;

@@ -2,7 +2,7 @@
     position: fixed;
     left: 0;
     top: 0;
-    height: 100%;
+    height: 100vh;
     width: 7%; /* Adjust the width as per your requirements */
     background-color: #0C0C14; /* Adjust the background color as per your design */
     overflow-y: auto; /* Enable scrolling if the content exceeds the height */
@@ -10,14 +10,13 @@
     align-items:center;
   }
 
-  li {
-    border-bottom: solid #17171a;
+  .sidebar-li {
     margin-bottom: 20px;
     align-items: center;
     padding-bottom: 10px;
   }
 
-  li a{
+  .sidebar-li a{
     color: #fff;
     font-size: 32px;
     font-weight: normal;

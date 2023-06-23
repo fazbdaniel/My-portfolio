@@ -4,7 +4,7 @@ import { Contacts } from '../../components'
 
 export default function Footer() {
   return (
-    <div>
+    <div className='footer'>
       <Contacts/>
     </div>
   )
