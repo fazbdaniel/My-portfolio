@@ -1,19 +1,59 @@
 #skills {
-    color:black;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 200px;
+  color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 25vh;
+  border-top: 2px solid;
+  border-image: linear-gradient(to right, transparent, black, transparent) 1;
+  border-image-slice: 1;
 }
 
 .section-title {
-    font-size: 50px;
-    font-weight: bold;
-    margin-bottom: 40px;
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 60px;
 }
 
-.sills-ul {
-    list-style: none;
-    padding-left: 0;
+.service-card {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  transition: background-color 0.9s ease, color 0.9s ease, transform 0.9s ease;
+  width: 380px;
+}
+
+.service-card:hover {
+  background-color: #fff;
+  border: 1px solid #000;
+  color: #000;
+  transform: scale(1.05);
+}
+
+.service-card.hovered {
+  transform: scale(1.05);
+  margin-bottom: -200px;
+}
+
+.service-card ul {
+  list-style: none;
+  text-align: center;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.service-card ul li {
+  font-weight: 500;
+}
+
+.service-icon i > :first-child {
+  font-size: 58px;
+  margin-bottom: 20px;
+}
+
+.service-title {
+  font-size: 24px;
+  margin-bottom: 10px;
 }

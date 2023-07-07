@@ -3,14 +3,14 @@
   scroll-snap-align: center;
 }
 .profile-picture {
-  margin-left: 17em;
+  margin-left: 13em;
   width: 20rem;
   height: 20rem;
 }
 .social-icons {
   margin: 20px;
   padding: 5px;
-  padding-right: 30px;
+  padding-right: 65px;
   text-align: end;
 }
 .social-icons a {
@@ -19,10 +19,10 @@
 }
 .identification {
   padding-top: 8em;
-  padding-left: 2rem;
+  padding-left: 1rem;
 }
 .resume-button {
-  margin: 2rem;
+  margin: 1rem;
   padding: 20px;
   background: none;
   border: solid 2px #000;
