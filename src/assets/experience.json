@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "employer": "Humuza Innovation Hub",
+      "jobTitle": "Intern/Marketing Department",
+      "startDate": "June 2018",
+      "endDate": "August 2018",
+      "description": "As an intern at Humuza Innovation Hub, my duties were to assist the director of marketing in the following areas: \n\n• Inventory planning\n• Budgeting and Financial Reporting\n• Marketing and sales\n• Procurement and supply"
+    },
+    {
+      "id": 2,
+      "employer": "HOLA graphics",
+      "jobTitle": "Assistant Manager",
+      "startDate": "October 2018",
+      "endDate": "January 2019",
+      "description": "As an assistant manager at HOLA Graphics, my roles were as follows: \n\n• Management and bookkeeping\n• Inventory planning and management\n• Budgeting and Financial Reporting\n• Marketing and sales\n• Procurement and supply"
+    },
+    {
+      "id": 3,
+      "employer": "BetaLoan Ltd",
+      "jobTitle": "Loan officer",
+      "startDate": "April 2021",
+      "endDate": "April 2022",
+      "description": "My duties as a loan officer at BetaLoan were: \n\n• Review clients' applications for loans\n• Guide clients through their loan application process\n• Explain to clients how BetaLoan's loan process works, their rights and responsibilities\n• Serve the clients and record any transaction on behalf of BetaLoan Ltd.\n• Collect loan payments"
+    },
+    {
+      "id": 4,
+      "employer": "Butterfly Communication Ltd.",
+      "jobTitle": "Digital Account Manager",
+      "startDate": "November 2022",
+      "endDate": null,
+      "description": "As a digital account manager at BCL, I am responsible for optimizing our clients' online presence through digital marketing strategies that include: \n\n• Digital strategy planning\n• Content creation\n• Social media management\n• SEO, SEM, and blogging\n• Evaluating the performance of online and making adjustments to improve results"
+    }
+  ]
+  

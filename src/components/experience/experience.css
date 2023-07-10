@@ -1,4 +1,39 @@
-#experience {
+/* #experience {
     height: 100vh;
     padding-left: 20px;
-}
+} */
+
+#experience {
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  #experience h2 {
+    font-weight: 700;
+  }
+  #experience h5 {
+    margin-bottom: 10px;
+    line-height: 22px;
+  }
+  #experience .workblock {
+    border-bottom: 1px solid #000;
+    margin-bottom: 10px;
+    padding: 20px 0px;
+  }
+  #experience .workblock:last-child {
+    border-bottom: 0px;
+  }
+  #experience h6.position {
+    margin-top: -7px;
+  }
+  @media (max-width: 767px) {
+    #experience {
+      padding-top: 150px;
+    }
+    #experience h2 {
+      margin-bottom: 0px !important;
+    }
+  }
+  
