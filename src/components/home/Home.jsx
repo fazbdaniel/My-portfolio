@@ -14,29 +14,29 @@ export default function Home() {
     <div className="container">
       <div className="row">
         <div className="col-md-6">
-          <img src={dani_1} alt="Profile" className="profile-picture" />
+          <img src={dani_1} alt="Profile" data-aos="flip-right" className="profile-picture img-fluid" />
           <div className="social-icons">
             <a href="https://github.com/fazbdaniel"  target="_blank" rel="noopener noreferrer">
-              <GitHub />
+              <GitHub data-aos="fade-right" data-aos-delay="1000"/>
             </a>
             <a href="https://baguma.medium.com/" target="_blank" rel="noopener noreferrer">
-              <Language />
+              <Language data-aos="fade-right" data-aos-delay="1000" />
             </a>
             <a href="https://twitter.com/BagumaFazili" target="_blank" rel="noopener noreferrer">
-              <Twitter />
+              <Twitter data-aos="fade-right" data-aos-delay="1000"/>
             </a>
             <a href="https://facebook.com/daniel.baguma.5" target="_blank" rel="noopener noreferrer">
-              <Facebook />
+              <Facebook data-aos="fade-right" data-aos-delay="1000"/>
             </a>
             <a href="https://www.instagram.com/fazbdaniel/" target="_blank" rel="noopener noreferrer">
-              <Instagram />
+              <Instagram data-aos="fade-right" data-aos-delay="1000"/>
             </a>
             <a href="https://www.linkedin.com/in/fazili-baguma-1127301b2/" target="_blank" rel="noopener noreferrer">
-              <LinkedIn />
+              <LinkedIn data-aos="fade-right" data-aos-delay="1000"/>
             </a>
           </div>
         </div>
-        <div className="col-md-6">
+        <div className="col-md-6" data-aos="fade-right">
           <div className="identification">
             <h1 className="name">Fazili Baguma Daniel</h1>
             <h2 className="title">Web Developer / Marketer</h2>

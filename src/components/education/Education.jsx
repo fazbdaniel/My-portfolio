@@ -48,20 +48,20 @@ export default function Education() {
                 <div className="educationblock">
                   <div className="row">
                     <div className="col-sm-4">
-                      <h5 data-aos="fade-right">Jan, 2019 - May, 2019</h5>
+                      <h5 data-aos="fade-right">June 2018 - August 2018</h5>
                     </div>
                     <div className="col-sm-8">
                       <div className="educationright" data-aos="fade-left">
-                        <h5>Infibeam Avenues Limited</h5>
-                        <h6>Project - "E-Commerce and Retailing System"</h6>
+                        <h5>Humuza Innovation Hub</h5>
+                        <h6>Marketing Intern</h6>
                         <h6>
-                          - HTML, CSS, Bootstrap, Javascript, jQuery
+                          - Inventory planning
                           <br />
-                          - Wordpress
+                          - Budgeting and Financial Reporting
                           <br />
-                          - Customize Themes
+                          - Marketing and sales
                           <br />
-                          - Woocommerce
+                          - Procurement and supply
                           <br />- Stripe
                         </h6>
                       </div>
