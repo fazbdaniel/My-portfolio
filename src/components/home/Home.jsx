@@ -1,6 +1,6 @@
 import React from "react";
 import "./home.css";
-import dani_1 from "../../assets/dani_1.jpg";
+import dani_1 from "../../assets/dani_1.png";
 // import Button from "@mui/material/Button";
 import { Twitter, LinkedIn, GitHub, Facebook, Instagram, Language } from "@mui/icons-material";
 

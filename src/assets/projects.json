@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "Burger Project",
+      "description": "A burger maker website that showcase my abilities in html, css, javascript, nodejs and react",
+      "link": "https://github.com/fazbdaniel/Second__repository/tree/main",
+      "image": "burger.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Project 2",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+      "link": "https://github.com/fazbdaniel/Second__repository/tree/main",
+      "image": "burger.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Project 3",
+      "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.",
+      "link": "https://github.com/fazbdaniel/Second__repository/tree/main",
+      "image": "burger.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Project 4",
+      "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.",
+      "link": "https://github.com/fazbdaniel/Second__repository/tree/main",
+      "image": "burger.jpg"
+    }
+  ]
+  

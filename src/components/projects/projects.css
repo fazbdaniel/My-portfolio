@@ -1,4 +1,36 @@
 #project {
-    height: 100vh;
+    min-height: 100vh;
     padding-left: 20px;
+}
+.project-card {
+    margin: 20px;
+    width: 29.3rem;
+    border: 2px solid #000;
+}
+
+.project-card img {
+    height:25em;
+    margin-bottom: 0;
+}
+
+.project-link a {
+    text-decoration: none;
+    color: black;
+}
+
+.project-title {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background: #5e5e60;
+    padding: 10px;
+}
+
+.project-description {
+    margin: 10px;
+}
+
+.project-link {
+    background: #908e8e;
+    margin-bottom: 0;
+    padding: 10px;
 }
